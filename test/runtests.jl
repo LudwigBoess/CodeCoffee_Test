@@ -9,5 +9,5 @@ end
     a = [1.0, 0.0, 0.0]
     b = [0.0, 1.0, 0.0]
 
-    @test dummy_crossproduct(a, b) == [0.0, 0.0, 1.0]
+    @test dummy_cross_product(a, b) == [0.0, 0.0, 1.0]
 end
