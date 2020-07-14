@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"#CodeCoffee_Test-Documentation","page":"CodeCoffee_Test Documentation","title":"CodeCoffee_Test Documentation","text":"","category":"section"},{"location":"","page":"CodeCoffee_Test Documentation","title":"CodeCoffee_Test Documentation","text":"sqrt_of_pi()","category":"page"},{"location":"#CodeCoffee_Test.sqrt_of_pi-Tuple{}","page":"CodeCoffee_Test Documentation","title":"CodeCoffee_Test.sqrt_of_pi","text":"sqrt_of_pi()\n\nReturns the squareroot of pi.\n\nExamples\n\njulia> sqrt_of_pi()\n1.7724538509055159\n\n\n\n\n\n","category":"method"},{"location":"","page":"CodeCoffee_Test Documentation","title":"CodeCoffee_Test Documentation","text":"dummy_cross_product()","category":"page"}]
+}
