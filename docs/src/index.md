@@ -1,9 +1,15 @@
-# CodeCoffee_Test Documentation
+# CodeCoffee_Test.jl
 
-```@docs
-sqrt_of_pi()
+
+```@meta
+CurrentModule = CodeCoffee_Test
+DocTestSetup = quote
+    using CodeCoffee_Test
+end
 ```
 
-```@docs
-dummy_cross_product()
+# API reference
+
+```@autodocs
+Modules = [CodeCoffee_Test]
 ```

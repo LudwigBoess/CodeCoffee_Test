@@ -1,3 +1,5 @@
-[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE.md)
-[![Build Status](https://travis-ci.org/LudwigBoess/CodeCoffee_Test.svg?branch=master)](https://travis-ci.org/LudwigBoess/CodeCoffee_Test)
-[![codecov.io](https://codecov.io/gh/LudwigBoess/CodeCoffee_Test/coverage.svg?branch=master)](https://codecov.io/gh/LudwigBoess/CodeCoffee_Test?branch=master)
+| **Documentation**                                                 | **Build Status**                                                                                | **Licence**                                                                                | **Version Status** |
+|:-----------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:| :-----------------------------------------------------------------------------------------------:|:-----------:|
+[![](https://img.shields.io/badge/docs-stable-blue.svg)](https://LudwigBoess.github.io/CodeCoffee_Test/stable) [![](https://img.shields.io/badge/docs-dev-blue.svg)](https://LudwigBoess.github.io/CodeCoffee_Test/dev) | [![Build Status](https://travis-ci.org/LudwigBoess/CodeCoffee_Test.svg?branch=master)](https://travis-ci.org/LudwigBoess/CodeCoffee_Test) [![codecov.io](https://codecov.io/gh/LudwigBoess/CodeCoffee_Test/coverage.svg?branch=master)](https://codecov.io/gh/LudwigBoess/CodeCoffee_Test?branch=master) | [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE.md) | ![TagBot](https://github.com/LudwigBoess/CodeCoffee_Test/workflows/TagBot/badge.svg) ![CompatHelper](https://github.com/LudwigBoess/CodeCoffee_Test/workflows/CompatHelper/badge.svg) |
+
+# CodeCoffee_Test
